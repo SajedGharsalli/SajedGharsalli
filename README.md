@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <b>Sajed Gharsalli</b> 👋</h1>
-<h3 align="center">AI Engineer | Computer Vision | Generative AI</h3>
+<h3 align="center">AI & Software Engineer | Computer Vision | Generative AI</h3>
 <p align="center">
   Passionate about building intelligent systems with real-world impact. Skilled in <b>Machine Learning, Deep Learning, Computer Vision, and LLMs</b>.  
   Always seeking to create scalable solutions that bridge research and production.
