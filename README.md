@@ -1,46 +1,40 @@
-<h1 align="center">Hi 👋, I'm Sajed</h1>
-<h3 align="center">AI Engineer passionate about building intelligent systems that solve real problems. Skilled in machine learning, deep learning, computer vision, and LLMs. Always eager to turn complex data into scalable, practical products.</h3>
-
-- 🔭 I’m currently working on **AI agents for automation** (vision + LLM integration for intelligent task workflows)
-
-- 🌱 I’m currently learning **advanced LLM fine-tuning and multimodal systems**
-
-- 👯 I’m looking to collaborate on **open-source AI projects in computer vision, NLP, and generative AI**
-
-- 👨‍💻 Selected projects:
-  - [License Plate Tracking System – YOLOv8 + EasyOCR](https://github.com/SajedGharsalli)  
-  - [Voice-to-Voice AI Assistant Prototype](https://github.com/SajedGharsalli)  
-  - [Driver Drowsiness Detection System](https://github.com/SajedGharsalli)  
-        
-- 📫 How to reach me: **mohamedsajed.gharsalli@gmail.com**
-
-### Blogs & Articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<h1 align="center">Hi, I'm <b>Sajed Gharsalli</b> 👋</h1>
+<h3 align="center">AI Engineer | Computer Vision | Generative AI</h3>
+<p align="center">
+  Passionate about building intelligent systems with real-world impact. Skilled in <b>Machine Learning, Deep Learning, Computer Vision, and LLMs</b>.  
+  Always seeking to create scalable solutions that bridge research and production.
 </p>
 
+---
 
+## ⚡ Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajedGharsalli&layout=compact&hide=html" alt="SajedGharsalli" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SajedGharsalli&show_icons=true" alt="SajedGharsalli" /></p>
+## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/SajedGharsalli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="SajedGharsalli" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/mohamed-sajed-gharsalli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohamed-sajed-gharsalli" height="30" width="30" /></a>
-<a href="mailto:mohamedsajed.gharsalli@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="30" /></a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SajedGharsalli&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajedGharsalli&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://github.com/SajedGharsalli"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohamed-sajed-gharsalli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohamedsajed.gharsalli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
